@@ -1,0 +1,4 @@
+* Falta reconocer donde hay área "grandes" sin texto para poder diferenciarlas (si son muy oscuras) del texto.
+* Falta reconocer bordes, esto ayudaría al punto de arriba. Quizás generar otra matriz (máscara) con True y False dependiendo si hay borde o no.
+* Falta reconocer líneas (quizás más facil que figuras).
+* Falta reconocer figuras.
